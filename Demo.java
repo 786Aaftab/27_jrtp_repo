@@ -1,3 +1,3 @@
 class Demo{
-    private String name="aaftab";
+    private String name="aftab";
 }
